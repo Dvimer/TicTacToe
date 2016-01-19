@@ -24,7 +24,7 @@ public class Game {
             }
         }
 
-        String a = "Hello World";
+        String a = "Hello World!";
     }
     // отрисовываем поле с координатами
     public void printField() {
